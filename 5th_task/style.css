@@ -1,0 +1,87 @@
+body{
+    font-family: 'Arial Black';
+    background:#3498db;
+    margin: 0 auto 0 auto;  
+    width:100%; 
+    text-align:center;
+    margin: 10px 0px 20px 0px;   
+  }
+
+  i{
+    color: #3498db;
+    padding: 8px; 
+    background-size: 9380px 318px;
+    background-position: -6240px -480px;    
+ }
+  p{
+    font-size:12px;
+    text-decoration: none;
+    color:#ffffff;
+  }
+  
+  h1{
+    font-size:1.5em;
+    color:#525252;
+  }
+  
+  .box{
+    background:white;
+    width:300px;
+    border-radius:6px;
+    margin: 0 auto 0 auto;
+    padding:45px 2px 100px 0px;
+    border: #2980b9 4px solid; 
+  }
+  
+  .Username{
+    background:#ecf0f1;
+    border: #ccc 1px solid;
+    border-bottom: #ccc 2px solid;
+    padding: 8px;
+    width:250px;
+    color:#AAAAAA;
+    margin-top:10px;
+    font-size:1em;
+    border-radius:4px;
+  }
+  
+  .password{
+    border-radius:4px;
+    background:#ecf0f1;
+    border: #ccc 1px solid;
+    padding: 8px;
+    width:250px;
+    font-size:1em;
+  }
+  
+  .btn{
+    background:#2ecc71;
+    width:125px;
+    padding-top:5px;
+    padding-bottom:7px;
+    color:white;
+    border-radius:4px;
+    border: #27ae60 1px solid;
+    margin-top:20px;
+    margin-bottom:12px;
+    float:left;
+    margin-left:60px;
+    font-weight:800;
+    font-size:0.8em;
+  }
+  .checkbox{
+    float:left;
+    margin-left:50px;
+    margin-top: 40px;
+  }
+  x{
+    margin-top: 15px;
+    color:black;
+    float: left;
+    font-size-adjust: initial;
+  }
+  
+  .btn:hover{
+    background:#2CC06B; 
+  }
+  
